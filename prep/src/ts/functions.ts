@@ -1,4 +1,4 @@
-import { Car } from "./models/car";
+import { Car } from './models/car';
 
 export function add(x: number, y: number): number {
     return x + y;
