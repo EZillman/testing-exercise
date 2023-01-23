@@ -1,0 +1,1 @@
+{"mappings":"AAAA,MAAM;AAEN,IAAI,IAAY;AAChB,QAAQ,GAAG,CAAC","sources":["src/ts/main.ts"],"sourcesContent":["alert('Hello');\r\n\r\nlet x: number = 17;\r\nconsole.log(x);"],"names":[],"version":3,"file":"index.cd6d870a.js.map","sourceRoot":"/__parcel_source_root/"}
