@@ -1,3 +1,4 @@
+/*
 import { add, addCar } from './functions';
 import { Car } from './models/car';
 
@@ -24,6 +25,10 @@ function init() {
     document.body.appendChild(carsPresentation);
 
 
+}; */
+
+export function sendMessage(theMessage: string) {
+    return theMessage;
 };
 
-init();
+//init();
